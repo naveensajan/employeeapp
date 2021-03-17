@@ -8,7 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
@@ -46,7 +46,7 @@
   </tr>
   <tr>
       <td>DOB</td>
-      <td><date class="form-control"></date></td>
+      <td><input type="text" class="form-control"></td>
   </tr>
   <tr>
       <td>Place</td>
